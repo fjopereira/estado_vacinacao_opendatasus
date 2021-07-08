@@ -6,3 +6,9 @@ Foi escolhido nessas condições para poder usar o processamento e espaço do go
 Foram automatizados os processos retidos, esta tudo bem comentado e explicando passo por passo.
 fjopereira@gmail.com se tiver dúvida ou sugestão.
 Me chama para compartilhar a basta e não ser necessário baixar o conteudo novamente.
+
+
+links utilizados:
+https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8?inner_span=True
+http://www.bibliotecavirtual.sp.gov.br/temas/sao-paulo/sao-paulo-populacao-do-estado.php
+https://www.todamateria.com.br/siglas-estados-brasileiros/
